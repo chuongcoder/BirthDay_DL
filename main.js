@@ -9,3 +9,4 @@ document.addEventListener("click", function() {
     var audio = document.getElementById("birthDayaudio");
     audio.play();
   });
+
